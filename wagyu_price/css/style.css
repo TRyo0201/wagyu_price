@@ -34,9 +34,12 @@ p {
 }
 
 @media screen and (min-width:576px) {
+  
   .row {
     margin-bottom: 30px;
-  }#page-top {
+  }
+  
+  #page-top {
   width: 40px;
   height: 40px;
   border-radius: 50%;
@@ -54,6 +57,7 @@ p {
   height: 100%;
   border-radius: 50%;
 }
+
 }
 
 
@@ -79,3 +83,7 @@ footer {
   text-align: center;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2_introduce_smooth_scroll
