@@ -68,7 +68,7 @@ footer {
 
 @media screen and (max-width:576px) {
   
-  #page-top {
+#page-top {
   width: 40px;
   height: 40px;
   border-radius: 50%;
